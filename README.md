@@ -7,7 +7,7 @@ After brainstorming many ideas and getting advice from the lecturer,
 we have settled on creating an image classification AI program that takes an image of a part of your body. 
 
 You are given a choice of uploading a white background image of a tattoo or selecting a design from the uploaded designs.
-You can then click and drag the tattoo onto the body. 
+You can then click and drag the tattoo onto the body. Machine Learning will be used for edge detection and contouring the image on to the body. 
 
 Once the model has finished computing, it will display the tattoo on the selected part of the body and provide the option of saving the image.
 
